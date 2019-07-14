@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\c#\myproject\bin\Debug\myproject.exe.config
+C:\Users\lenovo\Desktop\c#\myproject\bin\Debug\myproject.exe
+C:\Users\lenovo\Desktop\c#\myproject\bin\Debug\myproject.pdb
+C:\Users\lenovo\Desktop\c#\myproject\obj\Debug\myproject.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\c#\myproject\obj\Debug\myproject.Form1.resources
+C:\Users\lenovo\Desktop\c#\myproject\obj\Debug\myproject.login.resources
+C:\Users\lenovo\Desktop\c#\myproject\obj\Debug\myproject.Properties.Resources.resources
+C:\Users\lenovo\Desktop\c#\myproject\obj\Debug\myproject.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\c#\myproject\obj\Debug\myproject.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\c#\myproject\obj\Debug\myproject.exe
+C:\Users\lenovo\Desktop\c#\myproject\obj\Debug\myproject.pdb
+C:\Users\lenovo\Desktop\c#\myproject\obj\Debug\myproject.datashow.resources
+C:\Users\lenovo\Desktop\c#\myproject\obj\Debug\myproject.scannerpage.resources
+C:\Users\lenovo\Desktop\c#\myproject\obj\Debug\myproject.signup.resources
